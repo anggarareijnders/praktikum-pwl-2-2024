@@ -1,1 +1,2 @@
 ini file kedua
+menambah isi file2.txt ke cabang2
