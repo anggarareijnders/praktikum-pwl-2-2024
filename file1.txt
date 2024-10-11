@@ -1,1 +1,2 @@
 ini file pertama
+menambah isi file1.txt ke cabang1
